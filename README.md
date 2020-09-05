@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Marko, i`m from Urkraine, Kharkiv. 
+Hello, my name is Marko, I`m from Urkraine, Kharkiv. 
 Currently working on **Flutter™** projects
 
 ![Stardusted1's github stats](https://github-readme-stats.vercel.app/api?username=Stardusted1&show_icons=true&theme=onedark&hide=stars) 
