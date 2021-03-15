@@ -36,4 +36,4 @@
 [ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/stardusted1/)
 [ ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/Std_1)
 [ ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:refineanswer@gmail.com)
-[ ![](https://img.shields.io/badge/CV_page_1-fff?style=for-the-badge&logo=rss&logoColor=red) ](https://media-exp1.licdn.com/media/AAYUAgR3AAgAAQAAAAAAACySNWtSUUUUQ6O_Gi5iSztjlA.png)
+[ ![](https://img.shields.io/badge/MY_CV-fff?style=for-the-badge&logo=rss&logoColor=red) ](https://github.com/Stardusted1/Stardusted1/raw/master/Marko-Flutter.pdf)
