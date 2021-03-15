@@ -6,7 +6,7 @@
 - 📱 Yep, I`m mobile developer.
 - 🚀 Just like this emoji.
 
-- 
+#### 📄 My [cv](https://github.com/Stardusted1/Stardusted1/raw/master/Marko-Flutter.pdf)
 
 ### 😏 I heared something about this:
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
