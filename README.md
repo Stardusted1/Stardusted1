@@ -8,7 +8,7 @@
 
 #### 📄 My [cv](https://github.com/Stardusted1/Stardusted1/raw/master/Marko-Flutter.pdf)
 
-### 😏 I heared something about this:
+### 😏 I heard something about this:
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-FFF?style=for-the-badge&logo=flutter&logoColor=blue&background=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
