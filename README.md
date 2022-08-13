@@ -1,12 +1,15 @@
+
+# #NOWAR 🇺🇦
+
 ## Hi there 👋
 
 ### ©️ My name is Marko
 
-- 🇬🇧 🇺🇦 🇷🇺  I`m from Urkraine, Kharkiv.
+- 🇬🇧 🇺🇦 I`m from Urkraine, Kharkiv.
 - 📱 Yep, I`m mobile developer.
 - 🚀 Just like this emoji.
 
-### 📄 My [CV](https://resume.io/r/4cd2WaNit)
+### 📄 My [CV](https://stardusted1.notion.site/Marko-Andrushchenko-54ed61276e384d10904583ba6c4cad4c)
 
 ### 😏 I heard something about this:
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -36,4 +39,4 @@
 [ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/stardusted1/)
 [ ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/Std_1)
 [ ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:refineanswer@gmail.com)
-[ ![](https://img.shields.io/badge/MY_CV-fff?style=for-the-badge&logo=rss&logoColor=red) ](https://resume.io/r/4cd2WaNit)
+[ ![](https://img.shields.io/badge/MY_CV-fff?style=for-the-badge&logo=rss&logoColor=red) ](https://stardusted1.notion.site/Marko-Andrushchenko-54ed61276e384d10904583ba6c4cad4c)
