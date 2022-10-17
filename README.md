@@ -7,7 +7,7 @@
 
 - 🇬🇧 🇺🇦 I`m from Urkraine, Kharkiv.
 - 📱 Yep, I`m mobile developer.
-- 🚀 Just like this emoji.
+- 🚀 Just don't like this emoji.
 
 ### 📄 My [CV](https://stardusted1.notion.site/Marko-Andrushchenko-54ed61276e384d10904583ba6c4cad4c)
 
